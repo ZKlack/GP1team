@@ -3,7 +3,8 @@
 ## written
 
 ### Abstract W0
-* 
+This project aims to develop a system for detecting and predicting desertification to aid decision-makers in early intervention and prevention efforts. The approach involves analyzing remote sensing data using AI-driven models to identify land degradation patterns and forecast future risk areas. Possible methods include deep learning for land classification, time-series analysis for trend detection, and predictive modeling based on environmental factors. Key requirements include access to satellite imagery, computational resources for model training, and validation through historical data. Feasibility depends on data availability, model accuracy, and integration with existing monitoring efforts.
+* written by abdullah(t)
 
 ## pulled
 
