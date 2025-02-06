@@ -4,6 +4,7 @@
 
 ### Abstract W0
 Mknoon is an AI review analysis system designed to enhance the credibility and usability of online product reviews. The project leverages Natural Language Processing (NLP) and advanced AI algorithms to address two primary functions. First, Mknoon analyzes user reviews to detect fake or irrelevant content, ensuring that only authentic and product-related feedback is highlighted. This helps in mitigating the impact of deceptive reviews on consumer decision-making. Second, Mknoon summarizes positive reviews, extracting key insights to provide concise and meaningful information about the product. This feature aids potential customers by offering a quick overview of product strengths based on genuine user experiences. As part of future development, Mknoon will integrate a chatbot capable of answering customer queries directly, utilizing the analyzed review data and product information. This will enhance user interaction and support by providing real-time, data-driven responses. For the implementation of Mknoon, publicly available datasets such as the Amazon Product Review Dataset and Yelp Review Dataset will be utilized to train and evaluate the AI models. These datasets provide a rich source of diverse reviews, essential for developing robust fake review detection and summarization capabilities. Mknoon aims to revolutionize the way online reviews are processed, offering a reliable, AI-driven solution to improve customer trust and decision-making.
+* written by obada
 
 ## pulled
 
